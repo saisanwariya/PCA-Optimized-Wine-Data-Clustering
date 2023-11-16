@@ -1,4 +1,4 @@
-<h1 style="text-align:center">PCA-Optimized Wine Data Clustering: An Advanced Analytical Approach to Viniculture Data Stratification</font></h1>  
+<h1 align="center">PCA-Optimized Wine Data Clustering: An Advanced Analytical Approach to Viniculture Data Stratification</font</h1>
 
 ## Overview
 
